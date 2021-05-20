@@ -64,7 +64,7 @@ body{
     font-weight: 500;
 }
 .order > p{
-    margin-bottom: 7px;
+    margin-bottom: 8px;
 }
 .btn1{
     border: none;
@@ -179,16 +179,10 @@ body{
     .features{
         gap: 30px;
     }
-    .btn1,.btn2{
-    padding:11px 30px;
-    }
-    .features{
-        justify-content: left;
-    }
-    .heading{
+    h1{
         font-size:40px;
     }
-    .product{
+    .features{
         justify-content: left;
     }
     .cost{
